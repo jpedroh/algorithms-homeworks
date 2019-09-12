@@ -1,0 +1,3 @@
+/home/jpedroh/Projetos/listas-algoritmos/lista-um/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jpedroh/Projetos/listas-algoritmos/lista-um/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+/home/jpedroh/Projetos/listas-algoritmos/lista-um/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir

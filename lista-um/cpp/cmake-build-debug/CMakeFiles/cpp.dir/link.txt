@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/structures/Stack.cpp.o CMakeFiles/cpp.dir/operators/BinaryOperator.cpp.o CMakeFiles/cpp.dir/operators/BinaryOperatorFactory.cpp.o CMakeFiles/cpp.dir/operators/AndOperator.cpp.o CMakeFiles/cpp.dir/operators/OrOperator.cpp.o CMakeFiles/cpp.dir/operators/ImpliesOperator.cpp.o  -o cpp 
