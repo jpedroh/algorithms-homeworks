@@ -62,6 +62,7 @@ protected:
     }
 
     void rehash(int newArraySize) {
+	std::cout << "REHASHING \n";
         this->filledSlots = 0;
         this->parkedSlots = 0;
         int oldArraySize = this->actualArraySize;
