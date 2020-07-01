@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/BasesManager.cpp.o CMakeFiles/cpp.dir/Agent.cpp.o CMakeFiles/cpp.dir/DataStructures/DynamicArray.cpp.o  -o cpp 
